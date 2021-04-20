@@ -1,4 +1,9 @@
-## JSZip ## xlsx ## Angular-11 ##xlsx-reading ##ZIP ##UNZIP
+## JSZip 
+## xlsx 
+## Angular-11
+## xlsx-reading 
+## ZIP ##UNZIP
+
 # JszipExample
 
 Using JSZIP and XLSX library unzip the zip files and fetching (read) xlsx file using Angular 11.
