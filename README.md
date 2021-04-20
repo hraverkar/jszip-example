@@ -1,6 +1,7 @@
+## JSZip ## xlsx ## Angular-11 ##xlsx-reading ##ZIP ##UNZIP
 # JszipExample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
+Using JSZIP and XLSX library unzip the zip files and fetching (read) xlsx file using Angular 11.
 
 ## Development server
 
